@@ -10,6 +10,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+goat_counter: "bgthread"
+
 theme_config:
   back_home_text: ".."
   date_format: "%B %Y"
